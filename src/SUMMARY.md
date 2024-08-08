@@ -1,3 +1,17 @@
 # Summary
 
 - [Entrance](./intro.md)
+- [Prospecting](./prospecting.md)
+    - [Frames](./prospecting/frames.md)
+    - [Colourspaces](./prospecting/colourspaces.md)
+    - [Dynamic Range](./prospecting/dynamic-range.md)
+    - [Artifacts](./prospecting/artifacts.md)
+    - [Sources](./prospecting/sources.md)
+- [Mining](./mining.md)
+    - [x264](./mining/x264.md)
+- [Polishing](./polishing.md)
+    - [Frameserver](./polishing/frameserver.md)
+    - [Deband](./polishing/deband.md)
+    - [Dirty Lines](./polishing/dirty-lines.md)
+    - [Resize and Dither](./polishing/resize.md)
+    - [Tonemap](./polishing/tonemap.md)
